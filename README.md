@@ -21,3 +21,5 @@ generatation299
 適応度の最大値は45 適応度の最小値は26適応度の平均値は33.83  
 generatation300  
 適応度の最大値は46 適応度の最小値は27適応度の平均値は33.86  
+  
+![image](https://user-images.githubusercontent.com/62968285/147762184-6c55436e-90dc-4a50-931d-c81863a93079.png)  
